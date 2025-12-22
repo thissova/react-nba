@@ -1,0 +1,334 @@
+{
+  "teams": [
+    {
+      "name": "Atlanta Hawks",
+      "code": "ATL",
+      "city": "Atlanta",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/24/Atlanta_Hawks_logo.svg",
+      "colors": {
+        "main": "#e03a3e",
+        "secondary": "#c1d32f",
+        "accent": "#26282a"
+      }
+    },
+    {
+      "name": "Boston Celtics",
+      "code": "BOS",
+      "city": "Boston",
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/8f/Boston_Celtics.svg",
+      "colors": {
+        "main": "#007a33",
+        "secondary": "#ba9653",
+        "accent": "#000000"
+      }
+    },
+    {
+      "name": "Brooklyn Nets",
+      "code": "BKN",
+      "city": "Brooklyn",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Brooklyn_Nets_newlogo.svg",
+      "colors": {
+        "main": "#808080",
+        "secondary": "#ffffff",
+        "accent": "#bec0c2"
+      }
+    },
+    {
+      "name": "Charlotte Hornets",
+      "code": "CHA",
+      "city": "Charlotte",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c4/Charlotte_Hornets_%282014%29.svg",
+      "colors": {
+        "main": "#1d1160",
+        "secondary": "#00788c",
+        "accent": "#a1a1a4"
+      }
+    },
+    {
+      "name": "Chicago Bulls",
+      "code": "CHI",
+      "city": "Chicago",
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/67/Chicago_Bulls_logo.svg",
+      "colors": {
+        "main": "#ce1141",
+        "secondary": "#000000",
+        "accent": "#ffffff"
+      }
+    },
+    {
+      "name": "Cleveland Cavaliers",
+      "code": "CLE",
+      "city": "Cleveland",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Cleveland_Cavaliers_logo.svg",
+      "colors": {
+        "main": "#860038",
+        "secondary": "#fdbb30",
+        "accent": "#041e42"
+      }
+    },
+    {
+      "name": "Dallas Mavericks",
+      "code": "DAL",
+      "city": "Dallas",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/97/Dallas_Mavericks_logo.svg",
+      "colors": {
+        "main": "#00538c",
+        "secondary": "#002b5e",
+        "accent": "#b8c4ca"
+      }
+    },
+    {
+      "name": "Denver Nuggets",
+      "code": "DEN",
+      "city": "Denver",
+      "image": "https://upload.wikimedia.org/wikipedia/en/7/76/Denver_Nuggets.svg",
+      "colors": {
+        "main": "#0e2240",
+        "secondary": "#fec524",
+        "accent": "#8b2131"
+      }
+    },
+    {
+      "name": "Detroit Pistons",
+      "code": "DET",
+      "city": "Detroit",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_of_the_Detroit_Pistons.svg",
+      "colors": {
+        "main": "#1d42ba",
+        "secondary": "#c8102e",
+        "accent": "#bec0c2"
+      }
+    },
+    {
+      "name": "Golden State Warriors",
+      "code": "GSW",
+      "city": "San Francisco",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/01/Golden_State_Warriors_logo.svg",
+      "colors": {
+        "main": "#1d428a",
+        "secondary": "#ffc72c",
+        "accent": "#ffffff"
+      }
+    },
+    {
+      "name": "Houston Rockets",
+      "code": "HOU",
+      "city": "Houston",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/28/Houston_Rockets.svg",
+      "colors": {
+        "main": "#98002e",
+        "secondary": "#000000",
+        "accent": "#c4ced4"
+      }
+    },
+    {
+      "name": "Indiana Pacers",
+      "code": "IND",
+      "city": "Indianapolis",
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/1b/Indiana_Pacers.svg",
+      "colors": {
+        "main": "#002d62",
+        "secondary": "#fdbb30",
+        "accent": "#bec0c2"
+      }
+    },
+    {
+      "name": "Los Angeles Clippers",
+      "code": "LAC",
+      "city": "Los Angeles",
+      "image": "https://upload.wikimedia.org/wikipedia/ru/e/ed/Los_Angeles_Clippers_%282024%29.svg",
+      "colors": {
+        "main": "#c8102e",
+        "secondary": "#1d428a",
+        "accent": "#bec0c2"
+      }
+    },
+    {
+      "name": "Los Angeles Lakers",
+      "code": "LAL",
+      "city": "Los Angeles",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg",
+      "colors": {
+        "main": "#552583",
+        "secondary": "#fdb927",
+        "accent": "#000000"
+      }
+    },
+    {
+      "name": "Memphis Grizzlies",
+      "code": "MEM",
+      "city": "Memphis",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg",
+      "colors": {
+        "main": "#5d76a9",
+        "secondary": "#12173f",
+        "accent": "#f5b112"
+      }
+    },
+    {
+      "name": "Miami Heat",
+      "code": "MIA",
+      "city": "Miami",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg",
+      "colors": {
+        "main": "#98002e",
+        "secondary": "#f9a01b",
+        "accent": "#000000"
+      }
+    },
+    {
+      "name": "Milwaukee Bucks",
+      "code": "MIL",
+      "city": "Milwaukee",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Milwaukee_Bucks_logo.svg",
+      "colors": {
+        "main": "#00471b",
+        "secondary": "#eee1c6",
+        "accent": "#0077c0"
+      }
+    },
+    {
+      "name": "Minnesota Timberwolves",
+      "code": "MIN",
+      "city": "Minneapolis",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c2/Minnesota_Timberwolves_logo.svg",
+      "colors": {
+        "main": "#0c2340",
+        "secondary": "#236192",
+        "accent": "#78be20"
+      }
+    },
+    {
+      "name": "New Orleans Pelicans",
+      "code": "NOP",
+      "city": "New Orleans",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0d/New_Orleans_Pelicans_logo.svg",
+      "colors": {
+        "main": "#0c2340",
+        "secondary": "#c8102e",
+        "accent": "#85714d"
+      }
+    },
+    {
+      "name": "New York Knicks",
+      "code": "NYK",
+      "city": "New York",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg",
+      "colors": {
+        "main": "#006bb6",
+        "secondary": "#f58426",
+        "accent": "#bec0c2"
+      }
+    },
+    {
+      "name": "Oklahoma City Thunder",
+      "code": "OKC",
+      "city": "Oklahoma City",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/5d/Oklahoma_City_Thunder.svg",
+      "colors": {
+        "main": "#007ac1",
+        "secondary": "#ef3b24",
+        "accent": "#002d62"
+      }
+    },
+    {
+      "name": "Orlando Magic",
+      "code": "ORL",
+      "city": "Orlando",
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/10/Orlando_Magic_logo.svg",
+      "colors": {
+        "main": "#0077c0",
+        "secondary": "#c4ced4",
+        "accent": "#000000"
+      }
+    },
+    {
+      "name": "Philadelphia 76ers",
+      "code": "PHI",
+      "city": "Philadelphia",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg",
+      "colors": {
+        "main": "#006bb6",
+        "secondary": "#ed174c",
+        "accent": "#002b5c"
+      }
+    },
+    {
+      "name": "Phoenix Suns",
+      "code": "PHX",
+      "city": "Phoenix",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/dc/Phoenix_Suns_logo.svg",
+      "colors": {
+        "main": "#1d1160",
+        "secondary": "#e56020",
+        "accent": "#f9ad1b"
+      }
+    },
+    {
+      "name": "Portland Trail Blazers",
+      "code": "POR",
+      "city": "Portland",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/21/Portland_Trail_Blazers_logo.svg",
+      "colors": {
+        "main": "#e03a3e",
+        "secondary": "#000000",
+        "accent": "#bac3c9"
+      }
+    },
+    {
+      "name": "Sacramento Kings",
+      "code": "SAC",
+      "city": "Sacramento",
+      "image": "https://upload.wikimedia.org/wikipedia/sco/c/c7/SacramentoKings.svg",
+      "colors": {
+        "main": "#5a2d81",
+        "secondary": "#63727a",
+        "accent": "#000000"
+      }
+    },
+    {
+      "name": "San Antonio Spurs",
+      "code": "SAS",
+      "city": "San Antonio",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a2/San_Antonio_Spurs.svg",
+      "colors": {
+        "main": "#808080",
+        "secondary": "#c4ced4",
+        "accent": "#ffffff"
+      }
+    },
+    {
+      "name": "Toronto Raptors",
+      "code": "TOR",
+      "city": "Toronto",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Toronto_Raptors_logo.svg",
+      "colors": {
+        "main": "#ce1141",
+        "secondary": "#000000",
+        "accent": "#a1a1a4"
+      }
+    },
+    {
+      "name": "Utah Jazz",
+      "code": "UTA",
+      "city": "Salt Lake City",
+      "image": "https://upload.wikimedia.org/wikipedia/ru/7/77/Utah_Jazz_logo_2025.svg",
+      "colors": {
+        "main": "#002b5c",
+        "secondary": "#00471b",
+        "accent": "#f9a01b"
+      }
+    },
+    {
+      "name": "Washington Wizards",
+      "code": "WAS",
+      "city": "Washington",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/02/Washington_Wizards_logo.svg",
+      "colors": {
+        "main": "#002B5C",
+        "secondary": "#e31837",
+        "accent": "#c4ced4"
+      }
+    }
+  ]
+}

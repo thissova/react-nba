@@ -1,0 +1,22 @@
+header {
+  display: flex;
+  justify-content: space-between;
+}
+h1 {
+  margin: 0;
+  font-weight: 400;
+  font-family: var(--font-family);
+}
+button {
+  all: unset;
+  display: flex;
+  cursor: pointer;
+}
+.buttonsContainer {
+  display: flex;
+  align-content: center;
+  gap: 10px;
+}
+.pageNumber {
+  font-family: var(--font-family);
+}

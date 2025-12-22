@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 0;
+}
+
+.card {
+  width: calc(25% - 30px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid black;
+  border-radius: 5px;
+  padding-top: 20px;
+}
+.logo {
+  width: 180px;
+}
+.imageContainer {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  width: 260px;
+  height: 260px;
+  border-radius: 5px;
+  margin-bottom: 32px;
+}
+h2 {
+  margin: 0;
+  font-size: 24px;
+  font-weight: 300;
+}
+.textContainer {
+  font-family: var(--font-family);
+  text-align: center;
+}
