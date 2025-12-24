@@ -1,4 +1,5 @@
 {
+  "nba_season": "2025-2026",
   "teams": [
     {
       "name": "Atlanta Hawks",
@@ -6,10 +7,28 @@
       "city": "Atlanta",
       "image": "https://upload.wikimedia.org/wikipedia/en/2/24/Atlanta_Hawks_logo.svg",
       "colors": {
-        "main": "#e03a3e",
-        "secondary": "#c1d32f",
-        "accent": "#26282a"
-      }
+        "main": "#E03A3E",
+        "secondary": "#C1D32F",
+        "accent": "#26282A"
+      },
+      "description": "The Atlanta Hawks continue to build their identity around the elite playmaking and long-range shooting of Trae Young at State Farm Arena. Following the addition of top draft pick Zaccharie Risacher and the steady growth of Jalen Johnson, the Hawks have formed a versatile core. Their strategy focuses on a high-speed transition game and improved defensive switching, aiming to disrupt the Eastern Conference hierarchy and return to a deep playoff contention in the upcoming season.",
+      "stars": [
+        {
+          "name": "Trae Young",
+          "number": 11,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629027.png"
+        },
+        {
+          "name": "Jalen Johnson",
+          "number": 1,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630552.png"
+        },
+        {
+          "name": "Zaccharie Risacher",
+          "number": 10,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642258.png"
+        }
+      ]
     },
     {
       "name": "Boston Celtics",
@@ -17,10 +36,28 @@
       "city": "Boston",
       "image": "https://upload.wikimedia.org/wikipedia/en/8/8f/Boston_Celtics.svg",
       "colors": {
-        "main": "#007a33",
-        "secondary": "#ba9653",
+        "main": "#007A33",
+        "secondary": "#BA9653",
         "accent": "#000000"
-      }
+      },
+      "description": "As the benchmark for modern NBA excellence, the Boston Celtics rely on their incredible depth and the star power of the Tatum-Brown duo. Playing at the historic TD Garden, the team has mastered a 'positionless' style of basketball, where every player on the court provides a threat from the three-point line and elite defensive coverage. The Celtics remain the favorites to dominate the East, driven by a culture of winning and a roster that has perfect chemistry.",
+      "stars": [
+        {
+          "name": "Jayson Tatum",
+          "number": 0,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628369.png"
+        },
+        {
+          "name": "Jaylen Brown",
+          "number": 7,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627759.png"
+        },
+        {
+          "name": "Kristaps Porzingis",
+          "number": 8,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204001.png"
+        }
+      ]
     },
     {
       "name": "Brooklyn Nets",
@@ -29,9 +66,27 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Brooklyn_Nets_newlogo.svg",
       "colors": {
         "main": "#808080",
-        "secondary": "#ffffff",
-        "accent": "#bec0c2"
-      }
+        "secondary": "#FFFFFF",
+        "accent": "#808080"
+      },
+      "description": "The Brooklyn Nets are navigating a strategic rebuild, utilizing their immense collection of draft picks to build a new foundation. Despite the transition, the team remains competitive at the Barclays Center, led by the explosive scoring outbursts of Cam Thomas and the defensive anchor Nic Claxton. The Nets are focusing on high-energy basketball and player development, aiming to establish a gritty identity that reflects the spirit of the Brooklyn borough while waiting for their next big superstar acquisition.",
+      "stars": [
+        {
+          "name": "Cam Thomas",
+          "number": 24,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630560.png"
+        },
+        {
+          "name": "Nic Claxton",
+          "number": 33,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629651.png"
+        },
+        {
+          "name": "Cameron Johnson",
+          "number": 2,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629661.png"
+        }
+      ]
     },
     {
       "name": "Charlotte Hornets",
@@ -39,10 +94,28 @@
       "city": "Charlotte",
       "image": "https://upload.wikimedia.org/wikipedia/en/c/c4/Charlotte_Hornets_%282014%29.svg",
       "colors": {
-        "main": "#1d1160",
-        "secondary": "#00788c",
-        "accent": "#a1a1a4"
-      }
+        "main": "#1D1160",
+        "secondary": "#00788C",
+        "accent": "#A1A1A4"
+      },
+      "description": "Buzz City is entering a thrilling new era with the healthy return of LaMelo Ball and the rapid ascent of Brandon Miller. The Hornets' strategy is built on transition speed and creative shot-making at the Spectrum Center. By pairing Ball’s elite vision with Miller's versatile scoring, Charlotte has created one of the most exciting young tandems in the league. The franchise is committed to building a sustainable winner through the draft and a fast-paced offensive system.",
+      "stars": [
+        {
+          "name": "LaMelo Ball",
+          "number": 1,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630163.png"
+        },
+        {
+          "name": "Brandon Miller",
+          "number": 24,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641706.png"
+        },
+        {
+          "name": "Miles Bridges",
+          "number": 0,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628970.png"
+        }
+      ]
     },
     {
       "name": "Chicago Bulls",
@@ -50,10 +123,28 @@
       "city": "Chicago",
       "image": "https://upload.wikimedia.org/wikipedia/en/6/67/Chicago_Bulls_logo.svg",
       "colors": {
-        "main": "#ce1141",
+        "main": "#CE1141",
         "secondary": "#000000",
-        "accent": "#ffffff"
-      }
+        "accent": "#FFFFFF"
+      },
+      "description": "The Chicago Bulls have pivoted toward a youthful and dynamic roster at the United Center. With Coby White emerging as a primary scoring threat and the addition of Josh Giddey to facilitate the offense, the Bulls are embracing a more modern, playmaking-focused style. While the legendary history of the 90s still looms large, the current team is focused on high-tempo basketball and developing their athletic frontcourt to compete in an increasingly talented Eastern Conference.",
+      "stars": [
+        {
+          "name": "Coby White",
+          "number": 0,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629632.png"
+        },
+        {
+          "name": "Josh Giddey",
+          "number": 3,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630581.png"
+        },
+        {
+          "name": "Zach LaVine",
+          "number": 8,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203897.png"
+        }
+      ]
     },
     {
       "name": "Cleveland Cavaliers",
@@ -62,9 +153,27 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Cleveland_Cavaliers_logo.svg",
       "colors": {
         "main": "#860038",
-        "secondary": "#fdbb30",
-        "accent": "#041e42"
-      }
+        "secondary": "#FDBB30",
+        "accent": "#041E42"
+      },
+      "description": "The Cavaliers have solidified themselves as a top-tier contender in the East, boasting a balanced starting lineup that excels at both ends of the floor. Donovan Mitchell provides the elite scoring punch, while the 'twin towers' of Evan Mobley and Jarrett Allen ensure the league's best rim protection at Rocket Mortgage FieldHouse. The Cavs emphasize defensive grit and unselfish ball movement, creating a formidable environment that is difficult for any opponent to overcome.",
+      "stars": [
+        {
+          "name": "Donovan Mitchell",
+          "number": 45,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628378.png"
+        },
+        {
+          "name": "Evan Mobley",
+          "number": 4,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630596.png"
+        },
+        {
+          "name": "Darius Garland",
+          "number": 10,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629636.png"
+        }
+      ]
     },
     {
       "name": "Dallas Mavericks",
@@ -72,10 +181,28 @@
       "city": "Dallas",
       "image": "https://upload.wikimedia.org/wikipedia/en/9/97/Dallas_Mavericks_logo.svg",
       "colors": {
-        "main": "#00538c",
-        "secondary": "#002b5e",
-        "accent": "#b8c4ca"
-      }
+        "main": "#00538C",
+        "secondary": "#002B5E",
+        "accent": "#B8C4CA"
+      },
+      "description": "After the historic trade of Luka Doncic, the Mavericks have re-engineered their roster around the defensive dominance of Anthony Davis. Playing at the American Airlines Center, the team now features a terrifying inside-outside dynamic with Davis and Kyrie Irving. This new identity focuses on elite interior protection and championship-level veteran experience, ensuring the Mavericks remain a persistent threat for the title in the Western Conference for years to come.",
+      "stars": [
+        {
+          "name": "Kyrie Irving",
+          "number": 11,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202681.png"
+        },
+        {
+          "name": "Anthony Davis",
+          "number": 3,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203076.png"
+        },
+        {
+          "name": "Klay Thompson",
+          "number": 31,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202691.png"
+        }
+      ]
     },
     {
       "name": "Denver Nuggets",
@@ -83,10 +210,28 @@
       "city": "Denver",
       "image": "https://upload.wikimedia.org/wikipedia/en/7/76/Denver_Nuggets.svg",
       "colors": {
-        "main": "#0e2240",
-        "secondary": "#fec524",
-        "accent": "#8b2131"
-      }
+        "main": "#0E2240",
+        "secondary": "#FEC524",
+        "accent": "#8B2131"
+      },
+      "description": "The Denver Nuggets continue to be led by the generational talent of Nikola Jokic at Ball Arena. Their system, rooted in elite passing and high-IQ movement, makes them the most aesthetically pleasing team in the NBA. With Jamal Murray providing clutch scoring and Aaron Gordon anchoring the defense, the Nuggets maintain a core that has already proven its championship mettle. Their home-court advantage at high altitude remains one of the most difficult challenges for any visiting team.",
+      "stars": [
+        {
+          "name": "Nikola Jokic",
+          "number": 15,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203999.png"
+        },
+        {
+          "name": "Jamal Murray",
+          "number": 27,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627750.png"
+        },
+        {
+          "name": "Aaron Gordon",
+          "number": 50,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203932.png"
+        }
+      ]
     },
     {
       "name": "Detroit Pistons",
@@ -94,10 +239,28 @@
       "city": "Detroit",
       "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_of_the_Detroit_Pistons.svg",
       "colors": {
-        "main": "#1d42ba",
-        "secondary": "#c8102e",
-        "accent": "#bec0c2"
-      }
+        "main": "#1D42BA",
+        "secondary": "#C8102E",
+        "accent": "#BEC0C2"
+      },
+      "description": "The Detroit Pistons are rising from the depths of the lottery behind the stellar play of Cade Cunningham. At Little Caesars Arena, the team is building a gritty, defensive-minded identity that pays homage to the 'Bad Boys' era. By pairing Cunningham’s playmaking with the high-flying athleticism of Jaden Ivey and Ron Holland, the Pistons are crafting a fast-paced transition game designed to wear down opponents and bring winning basketball back to the Motor City.",
+      "stars": [
+        {
+          "name": "Cade Cunningham",
+          "number": 2,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630595.png"
+        },
+        {
+          "name": "Jaden Ivey",
+          "number": 23,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631093.png"
+        },
+        {
+          "name": "Tobias Harris",
+          "number": 12,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202699.png"
+        }
+      ]
     },
     {
       "name": "Golden State Warriors",
@@ -105,10 +268,28 @@
       "city": "San Francisco",
       "image": "https://upload.wikimedia.org/wikipedia/en/0/01/Golden_State_Warriors_logo.svg",
       "colors": {
-        "main": "#1d428a",
-        "secondary": "#ffc72c",
-        "accent": "#ffffff"
-      }
+        "main": "#1D428A",
+        "secondary": "#FFC72C",
+        "accent": "#FFFFFF"
+      },
+      "description": "The Golden State Warriors have added a new layer of toughness to their legendary shooting dynasty at the Chase Center. While Stephen Curry continues to defy age with his scoring brilliance, the addition of Jimmy Butler has provided a much-needed defensive edge and veteran leadership. This blend of elite perimeter gravity and physical playoff-tested experience makes the Warriors a dark horse in the West, as they chase one last championship together in the Bay Area.",
+      "stars": [
+        {
+          "name": "Stephen Curry",
+          "number": 30,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201939.png"
+        },
+        {
+          "name": "Jimmy Butler",
+          "number": 22,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202710.png"
+        },
+        {
+          "name": "Draymond Green",
+          "number": 23,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203110.png"
+        }
+      ]
     },
     {
       "name": "Houston Rockets",
@@ -116,10 +297,28 @@
       "city": "Houston",
       "image": "https://upload.wikimedia.org/wikipedia/en/2/28/Houston_Rockets.svg",
       "colors": {
-        "main": "#98002e",
+        "main": "#98002E",
         "secondary": "#000000",
-        "accent": "#c4ced4"
-      }
+        "accent": "#C4CED4"
+      },
+      "description": "Houston has officially entered 'win-now' mode by acquiring Kevin Durant to lead their young and hungry roster. At the Toyota Center, the Rockets are merging Durant's legendary scoring with the versatile talents of Alperen Sengun and Jalen Green. This combination of all-time greatness and youthful athleticism has transformed Houston into an immediate contender, playing an aggressive style of basketball that prioritizes spacing, elite shot-making, and high-energy defensive pressure.",
+      "stars": [
+        {
+          "name": "Kevin Durant",
+          "number": 35,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201142.png"
+        },
+        {
+          "name": "Alperen Sengun",
+          "number": 28,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630578.png"
+        },
+        {
+          "name": "Jalen Green",
+          "number": 4,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630224.png"
+        }
+      ]
     },
     {
       "name": "Indiana Pacers",
@@ -127,21 +326,58 @@
       "city": "Indianapolis",
       "image": "https://upload.wikimedia.org/wikipedia/en/1/1b/Indiana_Pacers.svg",
       "colors": {
-        "main": "#002d62",
-        "secondary": "#fdbb30",
-        "accent": "#bec0c2"
-      }
+        "main": "#002D62",
+        "secondary": "#FDBB30",
+        "accent": "#BEC0C2"
+      },
+      "description": "The Indiana Pacers have become the most entertaining offensive machine in the league under the guidance of Tyrese Haliburton. Playing at Gainbridge Fieldhouse, the Pacers emphasize a record-breaking pace and unselfish ball distribution. With Pascal Siakam providing veteran scoring and Myles Turner anchoring the defense as a premier shot-blocker, Indiana has built a roster that can outrun any opponent, making every game a high-scoring showcase of modern NBA talent.",
+      "stars": [
+        {
+          "name": "Tyrese Haliburton",
+          "number": 0,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630169.png"
+        },
+        {
+          "name": "Pascal Siakam",
+          "number": 43,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627783.png"
+        },
+        {
+          "name": "Myles Turner",
+          "number": 33,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626167.png"
+        }
+      ]
     },
     {
-      "name": "Los Angeles Clippers",
+      "name": "LA Clippers",
       "code": "LAC",
       "city": "Los Angeles",
+      "city_full": "Los Angeles Clippers",
       "image": "https://upload.wikimedia.org/wikipedia/ru/e/ed/Los_Angeles_Clippers_%282024%29.svg",
       "colors": {
-        "main": "#c8102e",
-        "secondary": "#1d428a",
-        "accent": "#bec0c2"
-      }
+        "main": "#C8102E",
+        "secondary": "#1D428A",
+        "accent": "#000000"
+      },
+      "description": "The LA Clippers have moved into their state-of-the-art home, the Intuit Dome, marking a new era for the franchise. Despite injury challenges, the team remains a threat behind the two-way dominance of Kawhi Leonard and the master playmaking of James Harden. The Clippers focus on a veteran-heavy, physical style that prioritizes defensive execution and isolation scoring, aiming to finally secure the championship that has eluded the franchise throughout its history.",
+      "stars": [
+        {
+          "name": "James Harden",
+          "number": 1,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201935.png"
+        },
+        {
+          "name": "Kawhi Leonard",
+          "number": 2,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202695.png"
+        },
+        {
+          "name": "Norman Powell",
+          "number": 24,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626181.png"
+        }
+      ]
     },
     {
       "name": "Los Angeles Lakers",
@@ -150,9 +386,27 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg",
       "colors": {
         "main": "#552583",
-        "secondary": "#fdb927",
+        "secondary": "#FDB927",
         "accent": "#000000"
-      }
+      },
+      "description": "The Los Angeles Lakers have shocked the world by pairing Luka Doncic with LeBron James in the ultimate pursuit of championship number 18. At Crypto.com Arena, this 'IQ-first' roster focuses on unparalleled playmaking and offensive creativity. With Doncic as the new engine and LeBron providing elite veteran production, the Lakers have become the most watched team in sports history, aiming to blend global superstardom with a winning culture in the heart of Hollywood.",
+      "stars": [
+        {
+          "name": "Luka Doncic",
+          "number": 77,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629029.png"
+        },
+        {
+          "name": "LeBron James",
+          "number": 23,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/2544.png"
+        },
+        {
+          "name": "Austin Reaves",
+          "number": 15,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630559.png"
+        }
+      ]
     },
     {
       "name": "Memphis Grizzlies",
@@ -160,10 +414,28 @@
       "city": "Memphis",
       "image": "https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg",
       "colors": {
-        "main": "#5d76a9",
-        "secondary": "#12173f",
-        "accent": "#f5b112"
-      }
+        "main": "#5D76A9",
+        "secondary": "#12173F",
+        "accent": "#F5B112"
+      },
+      "description": "Memphis is back to its 'Grit and Grind' roots with a modernized, explosive roster at FedExForum. Ja Morant continues to be the most athletic point guard in the league, while Jaren Jackson Jr. anchors the defense as a perennial Defensive Player of the Year candidate. The addition of rookie giant Zach Edey has provided a massive interior presence, allowing the Grizzlies to bully opponents physically while maintaining a high-flying transition offense that excites their loyal fanbase.",
+      "stars": [
+        {
+          "name": "Ja Morant",
+          "number": 12,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629630.png"
+        },
+        {
+          "name": "Jaren Jackson Jr.",
+          "number": 13,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628991.png"
+        },
+        {
+          "name": "Desmond Bane",
+          "number": 22,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630217.png"
+        }
+      ]
     },
     {
       "name": "Miami Heat",
@@ -171,10 +443,28 @@
       "city": "Miami",
       "image": "https://upload.wikimedia.org/wikipedia/en/f/fb/Miami_Heat_logo.svg",
       "colors": {
-        "main": "#98002e",
-        "secondary": "#f9a01b",
+        "main": "#98002E",
+        "secondary": "#F9A01B",
         "accent": "#000000"
-      }
+      },
+      "description": "The Miami Heat remain the gold standard for discipline and professional excellence at the Kaseya Center. While roster changes occur, 'Heat Culture' remains the constant, led by the defensive versatility of Bam Adebayo. The team prioritizes high-IQ players and conditioning, ensuring they are always the hardest-working group in any game. With a strategic focus on developing undrafted talent into essential contributors, Miami remains a dangerous postseason threat that no top seed wants to face.",
+      "stars": [
+        {
+          "name": "Bam Adebayo",
+          "number": 13,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628389.png"
+        },
+        {
+          "name": "Tyler Herro",
+          "number": 14,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629639.png"
+        },
+        {
+          "name": "Terry Rozier",
+          "number": 2,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626179.png"
+        }
+      ]
     },
     {
       "name": "Milwaukee Bucks",
@@ -182,10 +472,28 @@
       "city": "Milwaukee",
       "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Milwaukee_Bucks_logo.svg",
       "colors": {
-        "main": "#00471b",
-        "secondary": "#eee1c6",
-        "accent": "#0077c0"
-      }
+        "main": "#00471B",
+        "secondary": "#EEE1C6",
+        "accent": "#000000"
+      },
+      "description": "The Milwaukee Bucks continue to build around the unstoppable force of Giannis Antetokounmpo at the Fiserv Forum. Partnered with the deep-range scoring of Damian Lillard, the Bucks possess the most lethal inside-outside combination in the NBA. Their strategy focuses on a balanced offensive attack and a physical defense that dares opponents to challenge them in the paint. With championship experience and a core of hungry veterans, Milwaukee remains a top-tier contender for another ring.",
+      "stars": [
+        {
+          "name": "Giannis Antetokounmpo",
+          "number": 34,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203507.png"
+        },
+        {
+          "name": "Damian Lillard",
+          "number": 0,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203081.png"
+        },
+        {
+          "name": "Khris Middleton",
+          "number": 22,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203114.png"
+        }
+      ]
     },
     {
       "name": "Minnesota Timberwolves",
@@ -193,10 +501,28 @@
       "city": "Minneapolis",
       "image": "https://upload.wikimedia.org/wikipedia/en/c/c2/Minnesota_Timberwolves_logo.svg",
       "colors": {
-        "main": "#0c2340",
+        "main": "#0C2340",
         "secondary": "#236192",
-        "accent": "#78be20"
-      }
+        "accent": "#9EA2A2"
+      },
+      "description": "Anthony Edwards has ascended to true superstar status, leading the Timberwolves into a new age of dominance at the Target Center. Minnesota’s identity is forged in elite defense, with Rudy Gobert providing historic rim protection and Edwards delivering explosive offensive production. This combination of youthful energy and veteran defensive discipline has made the Timberwolves a championship favorite, representing the resilient spirit of the North as they chase their first NBA title.",
+      "stars": [
+        {
+          "name": "Anthony Edwards",
+          "number": 5,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630162.png"
+        },
+        {
+          "name": "Rudy Gobert",
+          "number": 27,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203497.png"
+        },
+        {
+          "name": "Julius Randle",
+          "number": 30,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203944.png"
+        }
+      ]
     },
     {
       "name": "New Orleans Pelicans",
@@ -204,10 +530,28 @@
       "city": "New Orleans",
       "image": "https://upload.wikimedia.org/wikipedia/en/0/0d/New_Orleans_Pelicans_logo.svg",
       "colors": {
-        "main": "#0c2340",
-        "secondary": "#c8102e",
-        "accent": "#85714d"
-      }
+        "main": "#002B5C",
+        "secondary": "#C8102E",
+        "accent": "#85714D"
+      },
+      "description": "The New Orleans Pelicans are a physical powerhouse at the Smoothie King Center, led by the unprecedented interior scoring of Zion Williamson. With the addition of Dejounte Murray to provide two-way playmaking and the reliable scoring of Brandon Ingram, the Pelicans have built a roster capable of bullying any opponent. Their focus on offensive rebounding and paint dominance, combined with improved perimeter defense, has positioned them as a dark horse contender in the deep Western Conference.",
+      "stars": [
+        {
+          "name": "Zion Williamson",
+          "number": 1,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629627.png"
+        },
+        {
+          "name": "Dejounte Murray",
+          "number": 5,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627749.png"
+        },
+        {
+          "name": "Brandon Ingram",
+          "number": 14,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627673.png"
+        }
+      ]
     },
     {
       "name": "New York Knicks",
@@ -215,10 +559,28 @@
       "city": "New York",
       "image": "https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg",
       "colors": {
-        "main": "#006bb6",
-        "secondary": "#f58426",
-        "accent": "#bec0c2"
-      }
+        "main": "#006BB6",
+        "secondary": "#F58426",
+        "accent": "#BEC0C2"
+      },
+      "description": "The New York Knicks have officially returned to the NBA's elite tier, playing a gritty and high-IQ brand of basketball at Madison Square Garden. Led by Jalen Brunson's masterful backcourt control and the versatile scoring of Karl-Anthony Towns, the Knicks have created a roster that reflects the toughness of the city. Their strategy emphasizes defensive intensity and spacing, aiming to finally bring a championship parade down Broadway and reward one of the most passionate fanbases in world sports.",
+      "stars": [
+        {
+          "name": "Jalen Brunson",
+          "number": 11,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628973.png"
+        },
+        {
+          "name": "Karl-Anthony Towns",
+          "number": 32,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203991.png"
+        },
+        {
+          "name": "Josh Hart",
+          "number": 3,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628404.png"
+        }
+      ]
     },
     {
       "name": "Oklahoma City Thunder",
@@ -226,10 +588,28 @@
       "city": "Oklahoma City",
       "image": "https://upload.wikimedia.org/wikipedia/en/5/5d/Oklahoma_City_Thunder.svg",
       "colors": {
-        "main": "#007ac1",
-        "secondary": "#ef3b24",
-        "accent": "#002d62"
-      }
+        "main": "#007AC1",
+        "secondary": "#EF3B24",
+        "accent": "#FDBB30"
+      },
+      "description": "The Oklahoma City Thunder have arrived as the primary force in the Western Conference. Led by MVP candidate Shai Gilgeous-Alexander and the versatile brilliance of Chet Holmgren, the Thunder play a hyper-efficient brand of basketball at the Paycom Center. Their roster is a perfect blend of youth and strategic depth, emphasizing ball movement, high-IQ defense, and multiple playmaking options. OKC is no longer just a 'team of the future'—they are the team of the present.",
+      "stars": [
+        {
+          "name": "Shai Gilgeous-Alexander",
+          "number": 2,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628983.png"
+        },
+        {
+          "name": "Chet Holmgren",
+          "number": 7,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631096.png"
+        },
+        {
+          "name": "Jalen Williams",
+          "number": 8,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631114.png"
+        }
+      ]
     },
     {
       "name": "Orlando Magic",
@@ -237,10 +617,28 @@
       "city": "Orlando",
       "image": "https://upload.wikimedia.org/wikipedia/en/1/10/Orlando_Magic_logo.svg",
       "colors": {
-        "main": "#0077c0",
-        "secondary": "#c4ced4",
+        "main": "#0077C0",
+        "secondary": "#C4CED4",
         "accent": "#000000"
-      }
+      },
+      "description": "The Orlando Magic have transformed into a defensive juggernaut at the Kia Center, utilizing their incredible length and versatility to shut down opponents. Led by the superstar forward Paolo Banchero and the gritty defensive presence of Franz Wagner, the Magic have established a 'defense-first' culture that makes them a nightmare to play against. Their focus on interior size and patient offensive execution has quickly moved them up the Eastern Conference standings, signaling a bright new era in Florida.",
+      "stars": [
+        {
+          "name": "Paolo Banchero",
+          "number": 5,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631094.png"
+        },
+        {
+          "name": "Franz Wagner",
+          "number": 22,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630532.png"
+        },
+        {
+          "name": "Jalen Suggs",
+          "number": 4,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630591.png"
+        }
+      ]
     },
     {
       "name": "Philadelphia 76ers",
@@ -248,10 +646,28 @@
       "city": "Philadelphia",
       "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg",
       "colors": {
-        "main": "#006bb6",
-        "secondary": "#ed174c",
-        "accent": "#002b5c"
-      }
+        "main": "#006BB6",
+        "secondary": "#ED174C",
+        "accent": "#002B5C"
+      },
+      "description": "The Philadelphia 76ers are all-in on their quest for a championship at the Wells Fargo Center. By pairing the dominant Joel Embiid with the speed of Tyrese Maxey and the elite two-way play of Paul George, Philly has created one of the most balanced 'Big Threes' in NBA history. Their strategy revolves around Embiid's interior presence and the perimeter shot-making of his star supporting cast, making the Sixers a perennial threat to win the East every single season.",
+      "stars": [
+        {
+          "name": "Joel Embiid",
+          "number": 21,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203954.png"
+        },
+        {
+          "name": "Tyrese Maxey",
+          "number": 0,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630178.png"
+        },
+        {
+          "name": "Paul George",
+          "number": 8,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202331.png"
+        }
+      ]
     },
     {
       "name": "Phoenix Suns",
@@ -259,10 +675,28 @@
       "city": "Phoenix",
       "image": "https://upload.wikimedia.org/wikipedia/en/d/dc/Phoenix_Suns_logo.svg",
       "colors": {
-        "main": "#1d1160",
-        "secondary": "#e56020",
-        "accent": "#f9ad1b"
-      }
+        "main": "#1D1160",
+        "secondary": "#E56020",
+        "accent": "#000000"
+      },
+      "description": "The Phoenix Suns remain a dangerous offensive force at the Footprint Center, centered around the elite scoring of Devin Booker. With Bradley Beal providing secondary playmaking and Tyus Jones orchestrating the floor, the Suns play a refined brand of basketball that focuses on high-percentage mid-range shots and veteran execution. Their commitment to winning now remains the priority, as they look to capitalize on their superstar talent and finally secure the first NBA title in franchise history.",
+      "stars": [
+        {
+          "name": "Devin Booker",
+          "number": 1,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626164.png"
+        },
+        {
+          "name": "Bradley Beal",
+          "number": 3,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203078.png"
+        },
+        {
+          "name": "Tyus Jones",
+          "number": 21,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626145.png"
+        }
+      ]
     },
     {
       "name": "Portland Trail Blazers",
@@ -270,10 +704,28 @@
       "city": "Portland",
       "image": "https://upload.wikimedia.org/wikipedia/en/2/21/Portland_Trail_Blazers_logo.svg",
       "colors": {
-        "main": "#e03a3e",
+        "main": "#E03A3E",
         "secondary": "#000000",
-        "accent": "#bac3c9"
-      }
+        "accent": "#FFFFFF"
+      },
+      "description": "The Portland Trail Blazers are focused on the development of their explosive young backcourt at the Moda Center. With Scoot Henderson’s playmaking athleticism and Shaedon Sharpe’s sky-high scoring ceiling, the Blazers are building a fast-paced identity. Supported by the versatile wing play of Deni Avdija and a core of developing bigs, Portland is navigating a transition era, aiming to return 'Rip City' to its historic status as a playoff mainstay in the Western Conference.",
+      "stars": [
+        {
+          "name": "Scoot Henderson",
+          "number": "00",
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630703.png"
+        },
+        {
+          "name": "Shaedon Sharpe",
+          "number": 17,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1631128.png"
+        },
+        {
+          "name": "Deni Avdija",
+          "number": 8,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630166.png"
+        }
+      ]
     },
     {
       "name": "Sacramento Kings",
@@ -281,10 +733,28 @@
       "city": "Sacramento",
       "image": "https://upload.wikimedia.org/wikipedia/sco/c/c7/SacramentoKings.svg",
       "colors": {
-        "main": "#5a2d81",
-        "secondary": "#63727a",
+        "main": "#5A2D81",
+        "secondary": "#63727A",
         "accent": "#000000"
-      }
+      },
+      "description": "The Sacramento Kings continue to 'Light the Beam' with a fast-paced and efficient offensive system at the Golden 1 Center. Domantas Sabonis remains the league's triple-double king, facilitating for the lighting-fast De'Aaron Fox and the veteran scoring of DeMar DeRozan. This combination of interior passing and perimeter shot-making has established Sacramento as one of the most difficult offenses to stop, as they seek to cement their place among the Western Conference elite.",
+      "stars": [
+        {
+          "name": "De'Aaron Fox",
+          "number": 5,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628368.png"
+        },
+        {
+          "name": "Domantas Sabonis",
+          "number": 10,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203471.png"
+        },
+        {
+          "name": "DeMar DeRozan",
+          "number": 10,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201942.png"
+        }
+      ]
     },
     {
       "name": "San Antonio Spurs",
@@ -292,10 +762,28 @@
       "city": "San Antonio",
       "image": "https://upload.wikimedia.org/wikipedia/en/a/a2/San_Antonio_Spurs.svg",
       "colors": {
-        "main": "#808080",
-        "secondary": "#c4ced4",
-        "accent": "#ffffff"
-      }
+        "main": "#C4CED4",
+        "secondary": "#000000",
+        "accent": "#FFFFFF"
+      },
+      "description": "The San Antonio Spurs are entering a new age of dominance led by the generational wonder Victor Wembanyama. Playing at the Frost Bank Center, the Spurs have surrounded 'Wemby' with veteran leadership like Chris Paul to accelerate his development. San Antonio’s strategy emphasizes high-IQ basketball, spacing, and elite defensive rim protection, signaling a return to the championship-caliber standards that have defined the franchise under Greg Popovich for over two decades.",
+      "stars": [
+        {
+          "name": "Victor Wembanyama",
+          "number": 1,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641705.png"
+        },
+        {
+          "name": "Chris Paul",
+          "number": 3,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101108.png"
+        },
+        {
+          "name": "Devin Vassell",
+          "number": 24,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630170.png"
+        }
+      ]
     },
     {
       "name": "Toronto Raptors",
@@ -303,21 +791,57 @@
       "city": "Toronto",
       "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Toronto_Raptors_logo.svg",
       "colors": {
-        "main": "#ce1141",
+        "main": "#CE1141",
         "secondary": "#000000",
-        "accent": "#a1a1a4"
-      }
+        "accent": "#A1A1A4"
+      },
+      "description": "The Toronto Raptors are rebuilding around the versatile brilliance of Scottie Barnes, representing the spirit of Canada at Scotiabank Arena. Barnes’ ability to facilitate, score, and defend multiple positions allows the Raptors to play a highly versatile 'switching' system. Supported by the scoring of RJ Barrett and the steady playmaking of Immanuel Quickley, Toronto is building a new young core focused on athleticism and transition scoring to climb back up the Eastern standings.",
+      "stars": [
+        {
+          "name": "Scottie Barnes",
+          "number": 4,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630567.png"
+        },
+        {
+          "name": "RJ Barrett",
+          "number": 9,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629628.png"
+        },
+        {
+          "name": "Immanuel Quickley",
+          "number": 5,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630193.png"
+        }
+      ]
     },
     {
       "name": "Utah Jazz",
       "code": "UTA",
-      "city": "Salt Lake City",
+      "city": "Utah",
       "image": "https://upload.wikimedia.org/wikipedia/ru/7/77/Utah_Jazz_logo_2025.svg",
       "colors": {
-        "main": "#002b5c",
-        "secondary": "#00471b",
-        "accent": "#f9a01b"
-      }
+        "main": "#002B5C",
+        "secondary": "#F9A01B",
+        "accent": "#00471B"
+      },
+      "description": "The Utah Jazz are crafting a modern, high-spacing offensive identity at the Delta Center behind the star power of Lauri Markkanen. Utah's strategy utilizes Markkanen's elite shooting as a big man to open up lanes for their young guards. With a massive treasure chest of future draft picks and a core of developing talents like Keyonte George, the Jazz are balancing competitiveness with long-term growth, aiming to build another powerhouse in the Salt Lake City community.",
+      "stars": [
+        {
+          "name": "Lauri Markkanen",
+          "number": 23,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628374.png"
+        },
+        {
+          "name": "Keyonte George",
+          "number": 3,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641718.png"
+        },
+        {
+          "name": "Collin Sexton",
+          "number": 2,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629012.png"
+        }
+      ]
     },
     {
       "name": "Washington Wizards",
@@ -326,9 +850,27 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/0/02/Washington_Wizards_logo.svg",
       "colors": {
         "main": "#002B5C",
-        "secondary": "#e31837",
-        "accent": "#c4ced4"
-      }
+        "secondary": "#E31837",
+        "accent": "#C4CED4"
+      },
+      "description": "The Washington Wizards are embarking on a fresh start in the nation's capital, centering their long-term plans around the number two overall pick, Alex Sarr. At the Capital One Arena, the team is prioritizing defensive length and transition speed. With Jordan Poole and Bilal Coulibaly providing scoring and wing depth, the Wizards are patient in their rebuilding process, focusing on developing a young, athletic identity that will compete at the highest level in the years to come.",
+      "stars": [
+        {
+          "name": "Alex Sarr",
+          "number": 12,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1642259.png"
+        },
+        {
+          "name": "Jordan Poole",
+          "number": 13,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629673.png"
+        },
+        {
+          "name": "Bilal Coulibaly",
+          "number": 0,
+          "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1641730.png"
+        }
+      ]
     }
   ]
 }
